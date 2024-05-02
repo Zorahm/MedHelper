@@ -1,7 +1,7 @@
 {
     "file":"https://raw.githubusercontent.com/Zorahm/MedHelper/main/Med%20Helper.lua",
-    "version":"1.3",
-    "change_log":"Убран коронавирус, переделал скрипт",
+    "version":"1.4",
+    "change_log":"Изменена отыгровка /heal, /cure",
     "beta_upd":false,
     "beta_file":"-",
     "beta_version":"0.0 beta",
