@@ -32,7 +32,7 @@
 script_name('MED | Helper')
 script_description('Удобный помощник для Больницы.')
 script_author('Zorahm | EvilDucky')
-script_version('1.4')
+script_version('1.3')
 script_dependencies('mimgui; samp events; lfs; MoonMonet')
 
 require 'moonloader'
