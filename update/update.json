@@ -1,0 +1,9 @@
+{
+    "file":"https://raw.githubusercontent.com/EvilDukky/MedHelper/main/Med%20Helper.lua",
+    "version":"1.2",
+    "change_log":"Добавлен мед.осмотр, убрана функия вакцинации от короновируса, добавлена функция быстрого лечения через команду /heal, добавлена функция быстроq реанимации через команду /cure",
+    "beta_upd":false,
+    "beta_file":"-",
+    "beta_version":"0.0 beta",
+    "beta_changelog":"нема"
+}
